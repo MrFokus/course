@@ -36,6 +36,11 @@ header>.content{
     color: #6A6B70;
 }
 /* --------------MAIN--------------- */
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 main>.content{
     display: block;
 
